@@ -1,2 +1,3 @@
-# template-nodejs
-Template repository for all things NodeJS related.
+# Template: NodeJS
+
+This repository is a template for creating a brand new NodeJS application using TypeScript.
